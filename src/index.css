@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.city-drop-down{
+  max-width: 60%;
+}
+.weather-details{
+  max-width: 100%;
+}
+
+.container{
+ margin: 20px 10px;
+}
+.img-thumbnail{
+  height: 50px !important;
+  width: 50px !important;
+}
